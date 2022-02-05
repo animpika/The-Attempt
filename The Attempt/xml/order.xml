@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+
+<orders>
+
+
+<order>
+    
+<count>97</count>
+<price>15.06</price>
+<book>
+<isbn>9780747532743</isbn>
+<title>Harry Potter and the Philosopher's Stone</title>
+<authors>
+<author> J. K. Rowling </author>
+</authors>
+</book>
+
+</order>
+
+
+<order>
+<count>1</count>
+<price>9.95</price>
+<yacht>
+<manufacturer>Luxury Yachts, Inc.</manufacturer>
+<model>M-1</model>
+<standardFeatures lifeVests="none" oars="plastic">false </standardFeatures>
+</yacht>
+</order>
+
+
+<order>
+<count>59</count>
+<price>10.00</price>
+<book>
+<isbn>9780439064873</isbn>
+<title>Harry Potter and the Chamber of Secrets</title>
+<authors>
+<author>J.K. Rowling</author>
+</authors>
+</book>
+</order>
+
+
+<order>
+
+<count>2</count>
+
+<price>10452689.01</price>
+
+
+<yacht>
+
+<manufacturer>We B Boats, Inc.</manufacturer>
+
+<model>236-A</model>
+
+<standardFeatures tennisCourt="grass" bowlingAlley="double">true </standardFeatures>
+
+</yacht>
+
+</order>
+
+
+<order>
+
+<count>79</count>
+
+<price>10.99</price>
+
+
+<book>
+
+<isbn>9780439554923</isbn>
+
+<title>Harry Potter And The Prisoner Of Azkaban</title>
+
+
+<authors>
+
+<author>J.K. Rowling</author>
+
+</authors>
+
+</book>
+
+</order>
+
+</orders>
